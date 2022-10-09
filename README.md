@@ -1,3 +1,5 @@
+<img alt="CS Club Logo" src="https://gsmstcsclub.github.io/images/logo-transparent.png" align="right" width="100px"/>
+
 # Contributing to CS Club Projects
 
 Welcome! This repo contains basic instructions for contributing to
