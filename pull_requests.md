@@ -1,6 +1,6 @@
 # Contributing to the Website
 
-Go to a the website's
+Go to the website's
 [GitHub Repo](https://github.com/GSMSTCSClub/GSMSTCSClub.github.io) and
 click the fork button (give it a star while you're at it ⭐)
 ![Fork repo](images/fork.png "Fork Repo")
