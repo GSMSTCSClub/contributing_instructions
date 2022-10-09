@@ -1,4 +1,4 @@
-# What is Git?
+# What is Git Anyways?
 
 Git is version control software. It basically allows you to keep track of your code at different points in time (like Google Docs edit history). Git (in combination with other tools like GitHub) allows developers to work together in codebases.
 
