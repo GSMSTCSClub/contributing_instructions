@@ -1,19 +1,18 @@
 # Contributing to the Website
 
 Go to the website's
-[GitHub Repo](https://github.com/GSMSTCSClub/GSMSTCSClub.github.io) and
-click the fork button (give it a star while you're at it ⭐)
-![Fork repo](images/fork.png "Fork Repo")
+[GitHub repository](https://github.com/GSMSTCSClub/GSMSTCSClub.github.io) and
+click the fork button (while you're at it, give us a star ⭐)
+
+![Fork repo](images/fork.png "Fork repo")
 
 Clone your forked repo by typing in `git clone <url>` in your terminal.
 Get the url by clicking the green Code button.
 
-![Clone repo](images/clone.png "Clone Repo")
+![Clone repo](images/clone.png "Clone repo")
 
-Your clone repo is automatically set up with git. Now, you can make
-whatever changes you want (fixing typos, adding new content, etc.)
-and commit. If you need help on commiting, check out
-[installing_git_and_basics.md](./installing_git_and_basics.md).
+When you clone the repository, it is automatically set up with git. Now, you can make whatever changes you want (fixing typos, adding new content, etc.) and commit. If you need help on committing, check out
+[Installing Git and Basics](./installing_git_and_basics.md).
 
 After you've made all of your commits, push your changes to your forked
 repo with the command `git push`.
