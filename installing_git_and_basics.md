@@ -6,7 +6,7 @@ Each saved snapshot of your code is called a commit. Frequent commits allow deve
 
 # Installing Git
 
-Go to this website and download the installer for your OS
+Go to [this website](https://git-scm.com/downloads) and download the installer for your OS
 Click through each step, leaving the default options
 Open up command prompt (windows) or terminal (Mac/Linux) and type in `git --version` (without the quotation marks). You should see something like `git version 2.25.1`.
 
