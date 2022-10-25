@@ -10,7 +10,7 @@ Each saved snapshot of your code is called a *commit*. Frequent commits allow de
 
 2. Click through each step, leaving the default options.
 
-3. Open up command prompt (windows) or terminal (Mac/Linux) and type in `git --version` (without the quotation marks). You should see something like `git version 2.25.1`.
+3. Open up the Command Prompt (Windows) or Terminal (Mac/Linux) and type in `git --version`. You should see something like `git version 2.25.1`.
 
 4. If you see “command not found” or a similar error message, refer to
 this [link](https://techdirectarchive.com/2022/07/12/git-command-not-found-how-to-fix-git-is-not-recognized-as-an-internal-or-external-command/#:~:text=If%20you%20opened%20Command%20Prompt,reopening%20it%20as%20an%20administrator.).
